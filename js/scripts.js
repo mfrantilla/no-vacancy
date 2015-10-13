@@ -1,2 +1,5 @@
 // My Scripts
-$('h1').novacancy();
+$('.noVacancy').novacancy();
+$('.fitText').fitText();
+$('.lettering').lettering();
+$('iframe').fitVids();
